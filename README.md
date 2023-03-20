@@ -5,4 +5,4 @@
  
  ## Upcoming features
  * Showing forecast weather.
- * Much better User Experience.
+ 
