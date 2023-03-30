@@ -52,6 +52,10 @@ input {
 
 }
 
+input::placeholder{
+    color: black;
+}
+
 button {
     align-items: center;
     appearance: none;
