@@ -61,7 +61,7 @@ async function getWeather() {
 // use this: https://www.npmjs.com/package/country-to-iso
 // credits to https://gist.github.com/themeteorchef/dcffd74ca3ab45277c81
 // who forked it from https://gist.github.com/maephisto/9228207
-// so props to everyone, and thanks to CodeWithChetham for making me do this :D 
+
 var isoCountries = {
   'AF': 'Afghanistan',
   'AX': 'Aland Islands',
